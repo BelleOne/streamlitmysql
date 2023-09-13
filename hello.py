@@ -11,6 +11,7 @@ print("Hello " * 3)
 
 print(sum(range(1, 10)))  # บวก 1-9 บวกกัน
 
+print(sum(range(1, 10)))  # บวก 1-9 บวกกัน
 # เขียนคำอธิบาย comment
 # all comments
 """
